@@ -302,3 +302,4 @@ The world is now your oyster now that you've mastered GitHub Pages and Markdown.
 + Jekyll Themes: http://jekyllthemes.org
 
 Markdown is not only useful for GitHub Pages. One markdown document can be translated into PDFs, HTML Slides, Word Documents, and a bunch of other formats. We talk about some of the uses here: http://laderast.github.io/magic-of-markdown/
+ 
